@@ -80,7 +80,7 @@ var x = parseInt(steps);
 // Checkpoint 1 | Creating the queen object
 let queen2 = {
     pos2: {
-        r: 0,
+        r: 4,
         c: 4
     },
     direction: 'S'
